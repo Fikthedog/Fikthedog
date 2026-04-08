@@ -26,9 +26,7 @@
   <img src="https://img.shields.io/badge/Nmap-%234F8EBE.svg?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-%23000000.svg?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-%23FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=splunk,wireshark,grafana" />
-  </a>
+  <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
 
 #### ⚙️ Cloud, DevOps & Editors
@@ -37,6 +35,13 @@
     <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,idea" />
   </a>
 </p>
+
+---
+
+### 🛡 Cybersecurity Training:
+<p align="left">
+  <a href="https://tryhackme.com/p/petr.jansa.the5">
+    <img src="https://tryhackme-badges.
 
 ---
 
