@@ -16,3 +16,4 @@
 ![Nmap](https://img.shields.io/badge/Nmap-%234F8EBE.svg?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-%23000000.svg?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
