@@ -14,12 +14,23 @@
 
 ### 🛠 Tech Stack & Tools:
 
-#### 💻 Programming & Operating Systems
+#### 💻 Operating Systems
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,bash,js,linux,windows,apple" />
+    <img src="https://skillicons.dev/icons?i=linux,kali,windows,apple,arch" />
   </a>
 </p>
+
+#### ⌨️ Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/jq-7098AC?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
 
 #### 🛡 Cybersecurity & Pentesting
 <p align="left">
