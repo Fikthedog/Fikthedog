@@ -37,7 +37,7 @@
 ---
 
 ### 🛡 Cybersecurity Training:
-<img src="https://tryhackme-badges.s3.amazonaws.com/uttam7.png" alt="TryHackMe Badge" /> 
+<img src="https://tryhackme-badge.s3.amazonaws.com/petr.jansa.the5.png" />
 ---
 
 ### 🔭 Currently Working On:
