@@ -46,8 +46,6 @@
 ---
 
 ### 🔭 Currently Working On:
-- 🛡️ **BREAD Robotics Team 5940** (Design & Construction)
-- 🐶 **Dog Adoption Tool** (Software Prototype Advisor)
 - 🌐 **P2P Network Prototype** (HTML & Pear/Holepunch stack)
 
 ---
