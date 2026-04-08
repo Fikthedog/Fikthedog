@@ -38,7 +38,7 @@
 
 ### 🛡 Cybersecurity Training:
 <p align="left">
-  <a href="https://tryhackme.com/p/uttam7">
+  <a href="https://tryhackme.com/p/petr.jansa.the5">
   <img src="https://tryhackme-badges.vercel.app/api/v1/badge/uttam7?theme=dark" alt="TryHackMe Badge" />
 </a>
 </p>
