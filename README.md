@@ -13,3 +13,6 @@
 ![Fortinet](https://img.shields.io/badge/Fortinet-%23EE3124.svg?style=for-the-badge&logo=fortinet&logoColor=white)
 ![Windows Admin](https://img.shields.io/badge/Windows_Admin-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux Admin](https://img.shields.io/badge/Linux_Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nmap](https://img.shields.io/badge/Nmap-%234F8EBE.svg?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-%23000000.svg?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white)
