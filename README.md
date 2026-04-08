@@ -41,6 +41,23 @@
 ### 🛡 Cybersecurity Training:
 <p align="left">
   <a href="https://tryhackme.com/p/petr.jansa.the5">
+    <img src="https://img.shields.io/badge/TryHackMe-petr.jansa.the5-212121?style=for-the-badge&logo=tryhackme&logoColor=99CC00" alt="TryHackMe Badge" />
+  </a>
+</p>
+
+---
+
+### 🔥 GitHub Activity:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fikthedog&theme=dark" alt="GitHub Streak Stats" />
+</p>
+
+<p align="right">Created with 🛠️ by Petr Jansa</p>
+---
+
+### 🛡 Cybersecurity Training:
+<p align="left">
+  <a href="https://tryhackme.com/p/petr.jansa.the5">
     <img src="https://tryhackme-badges.
 
 ---
