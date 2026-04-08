@@ -53,29 +53,3 @@
 </p>
 
 <p align="right">Created with 🛠️ by Petr Jansa</p>
----
-
-### 🛡 Cybersecurity Training:
-<p align="left">
-  <a href="https://tryhackme.com/p/petr.jansa.the5">
-    <img src="https://tryhackme-badges.
-
----
-
-### 🛡 Cybersecurity Training:
-<p align="left">
-  <a href="https://tryhackme.com/p/petr.jansa.the5">
-    <img src="https://tryhackme-badges.vercel.app/api/v1/badge/petr.jansa.the5?theme=dark" alt="TryHackMe Badge" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats & Streaks:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fikthedog&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fikthedog&theme=dark" alt="GitHub Streak Stats" />
-</p>
-
-<p align="right">Created with 🛠️ by Petr Jansa</p>
