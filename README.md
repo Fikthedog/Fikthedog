@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Petr Jansa</h1>
-<h3 align="center">Aspiring Cybersecurity Analyst | AI Enthusiast</h3>
+<h3 align="center">Student at Design Tech High School | Aspiring Cyber Security Analyst</h3>
 
 <p align="center">
-  I’m a junior passionate about technology, specifically computer science and ethical hacking. 
+  I’m a junior passionate about technology, especially computer science and ethical hacking. 
   I hold a Google Cybersecurity Professional Certificate and have hands-on experience with Linux, SQL, and SIEM tools.
 </p>
 
@@ -13,39 +13,28 @@
 ---
 
 ### 🛠 Tech Stack & Tools:
-- **Programming & Scripting**
+- **Programming & Cybersecurity**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,bash,js,html,css" />
-  </a>
-</p>
-
-- **Cybersecurity & Networking**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,nmap,metasploit,splunk,wireshark,grafana" />
+    <img src="https://skillicons.dev/icons?i=py,bash,js,linux,nmap,metasploit,splunk,wireshark,grafana" />
   </a>
 </p>
 
 - **Cloud & DevOps**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,git,github,windows,idea,vscode" />
   </a>
 </p>
 
 ---
 
 ### 🛡 Cybersecurity Training:
-<a href="https://tryhackme.com/p/petr.jansa.the5">
-  <img src="https://tryhackme-badges.vercel.app/api/v1/badge/petr.jansa.the5?theme=dark" alt="TryHackMe Badge" />
-</a>
-
-
----
-
-### 🔭 Currently Working On:
-- 🌐 **P2P Network Prototype** (HTML & Pear/Holepunch stack)
+<p align="left">
+  <a href="https://tryhackme.com/p/petr.jansa.the5">
+    <img src="https://img.shields.io/badge/TryHackMe-petr.jansa.the5-212121?style=for-the-badge&logo=tryhackme&logoColor=99CC00" alt="TryHackMe Badge" />
+  </a>
+</p>
 
 ---
 
