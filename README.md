@@ -12,16 +12,16 @@
 
 ---
 
-### 🛠 Tech Stack & Tools:
+### Tech Stack & Tools:
 
-#### 💻 Operating Systems
+#### Operating Systems
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,kali,windows,apple,arch" />
   </a>
 </p>
 
-#### ⌨️ Programming Languages
+#### Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
@@ -32,7 +32,7 @@
 </p>
 
 
-#### 🛡 Cybersecurity & Pentesting
+#### Cybersecurity & Pentesting
 <p align="left">
   <img src="https://img.shields.io/badge/Nmap-%234F8EBE.svg?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-%23000000.svg?style=for-the-badge&logo=metasploit&logoColor=white" />
@@ -40,14 +40,14 @@
   <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
 
-#### ☁️ Cloud
+#### Cloud
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws" />
   </a>
 </p>
 
-#### ⚙️ Editors & Others
+#### Editors & Others
 <p align="left">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -56,7 +56,7 @@
 
 ---
 
-### 🛡 Cybersecurity Training:
+### Cybersecurity Training:
 <p align="left">
   <a href="https://tryhackme.com/p/petr.jansa.the5">
     <img src="https://img.shields.io/badge/TryHackMe-petr.jansa.the5-212121?style=for-the-badge&logo=tryhackme&logoColor=99CC00" alt="TryHackMe Badge" />
