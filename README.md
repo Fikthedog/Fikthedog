@@ -13,17 +13,9 @@
 ---
 
 ### 🛠 Tech Stack & Tools:
-- **Programming & Cybersecurity**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,bash,js,linux,nmap,metasploit,splunk,wireshark,grafana" />
-  </a>
-</p>
-
-- **Cloud & DevOps**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,git,github,windows,idea,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,bash,js,linux,nmap,metasploit,splunk,wireshark,grafana,aws,docker,git,github,windows,idea,vscode" />
   </a>
 </p>
 
@@ -38,9 +30,11 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats & Streaks:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fikthedog&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fikthedog&theme=dark" alt="GitHub Streak Stats" />
 </p>
 
 <p align="right">Created with 🛠️ by Petr Jansa</p>
